@@ -1,0 +1,196 @@
+body
+{
+    width: 800px;
+    margin: 0 auto;
+}
+
+h1
+{
+    margin-top: 30px;
+    font-size: 25px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid black;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+h2
+{
+    margin-top: 30px;
+    font-size: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid black;
+    font-weight: bold;
+}
+
+nav a
+{
+  text-decoration:none;
+  color:inherit;
+  font-size: 14px;
+} 
+
+nav li
+{
+    display:inline-block;
+    width: 20%;
+    padding: 17px ;
+    background-color:#000;
+    border: 1px solid rgb(8, 8, 8);
+    text-align:center;
+    color:#fff;
+}
+
+nav li:hover
+{
+    background-color:#fff;
+    color:#000;
+}
+
+.imgPortada
+{
+    width: 800px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.imgPrimera
+{
+    margin-top: 30px;
+    width: 300px;
+    float: left;
+    margin-right: 30px;
+}
+.biografria
+{
+    text-align: justify;
+    margin-top: 30px;
+}
+
+.biografriaf
+{
+    text-align: justify;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.premios
+{
+    margin-top: 30px;
+}
+
+.cuadro
+{
+    max-width: 50%;
+    max-height: 50%;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.cuadro1
+{
+    max-width: 50%;
+    max-height: 50%;
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.pCuadros
+{
+    margin-top: 10px;
+    margin-left: 350px;
+    color: darkgray;
+}
+
+.pCuadrosf
+{
+    margin-top: 10px;
+    margin-left: 350px;
+    color: darkgray;
+}
+
+.cuadro:hover
+{
+    max-width: 800px;
+    max-height: 800px;
+}
+
+.exposiciones
+{
+    margin-top: 30px;
+}
+
+footer
+{
+    width: 800px;
+    margin: auto;
+    background: black;
+    color: white;   
+    margin-top: 30px;
+    
+}
+
+.container-footer-all
+{
+    width: auto;
+    max-width: 800px;
+    margin: auto;
+    padding: 30px;
+}
+
+.container-body
+{
+    display: flex;
+    justify-content: space-around;
+}
+
+.colum1
+{
+    max-width: 400px;
+}
+
+.colum1 h1
+{
+    font-size: 22px;
+}
+
+.colum1 p
+{
+    font-size: 14px;
+    color: #C7C7C7;
+    margin-top: 20px;
+    text-align: justify;
+}
+
+.colum3
+{
+    max-width: 400px;
+}
+
+.colum3 h1
+{
+    font-size: 22px;
+}
+
+.row2
+{
+    margin-top: 20px;
+    display: flex;
+}
+
+.row2 img
+{
+    width: 36px;
+    height: 36px;
+}
+
+.row2 label
+{
+    margin-top: 10px;
+    margin-left: 20px;
+    max-width: 140px;
+}
+
+
