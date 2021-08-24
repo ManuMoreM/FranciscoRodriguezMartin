@@ -119,6 +119,12 @@ nav li:hover
     max-height: 800px;
 }
 
+.cuadro1:hover
+{
+    max-width: 800px;
+    max-height: 800px;
+}
+
 .exposiciones
 {
     margin-top: 30px;
